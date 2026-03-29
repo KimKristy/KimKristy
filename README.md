@@ -63,5 +63,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div align=center>
-  <img src="https://raw.githubusercontent.com/KimKristy/KimKristy/output/snake.svg" alt="Snake animation" />
+  
+ <img src="https://raw.githubusercontent.com/KimKristy/KimKristy/output/snake.svg" alt="Snake animation" />
+  
 </div>

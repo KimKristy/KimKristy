@@ -52,14 +52,14 @@ Olá! Sou estudante de Engenharia de Software e estou começando minha jornada n
   ## 📊 Estatísticas
 
   <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimKristy&theme=merko" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=KimKristy&theme=merko" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimKristy&theme=merko" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimKristy&theme=merko" width="32%"/>
+  <img src="https://streak-stats.demolab.com?user=KimKristy&theme=merko" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimKristy&theme=merko" width="32%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KimKristy&theme=merko" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KimKristy&show_icons=true&theme=merko" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KimKristy&theme=merko" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KimKristy&show_icons=true&theme=merko" width="48%"/>
 </p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=KimKristy&theme=merko)

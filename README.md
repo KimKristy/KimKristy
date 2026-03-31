@@ -26,35 +26,38 @@ Olá! Sou estudante de Engenharia de Software e estou começando minha jornada n
   
 #
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/09e6a5d1-ae01-4665-a9c3-6c096bfeadf1">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09e6a5d1-ae01-4665-a9c3-6c096bfeadf1" width="75%"/>
+</p>
 
-
-<h3 align="left">Connect with me!</h3>
+  <div style="display: inline-block; width: 49%; text-align: left;">
+    
+<h3>Connect with me!</h3>
 
 <a href="https://www.linkedin.com/in/kimberly-kristina-9a9581357/">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </a>
 
+  </div>
 
-<h3 align="left">My Stack ~</h3>
+  <div style="display: inline-block; width: 49%; text-align: right;">
+    
+<h3>My Stack ~</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="javascript logo"  />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55"/>
+
+  </div>
 
 #
 
 <p>
-  ## 📊 Estatísticas
 
   <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimKristy&theme=merko" width="27%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimKristy&theme=merko" width="26%"/>
   <img src="https://streak-stats.demolab.com?user=KimKristy&theme=merko" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimKristy&theme=merko" width="27%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimKristy&theme=merko" width="26%"/>
 </p>
 
 <p align="center">
